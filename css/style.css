@@ -10,7 +10,16 @@ body{
 .container{
     padding:10px;
     width:380px;
-    margin:0 auto;
+    margin:20px auto;
+}
+/*----------------TITLE PART------------*/
+
+.title{
+   
+}
+
+#tit{
+   text-align: center;
 }
 
 /* ------------ header ------------ */
