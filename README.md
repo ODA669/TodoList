@@ -1,4 +1,10 @@
 # To-Do-List Using JavaScript
+
+
+![image](https://github.com/ODA669/TodoList/assets/60682935/eed0f308-8418-4b32-9ca0-405aa74731c8)
+
+
+
 In this tutorial, a JavaScript beginner can be able to create a beautiful and functional to do list using JavaScript.
 I will talk about the logic behind every line of code, before opening my text editor and start typing the code.
 it's a step by step tutorial, you won't get lost at any stage of this tutorial.
